@@ -1,2 +1,2 @@
-# 2048 Game
-2048 Amazing Game Star！😋
+# 2048 Game 🎉
+2048 Amazing Game ！😋
